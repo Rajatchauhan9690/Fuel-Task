@@ -6,7 +6,6 @@ type Props = {
 };
 
 const Chart: React.FC<Props> = ({ data }) => {
-  // reference to the chart container div
   const chartRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {

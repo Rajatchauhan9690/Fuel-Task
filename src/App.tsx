@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Chart from "./components/Chart";
-import data from "./data/Prices.json";
+import fuelData from "./data/Prices.json"; // <-- renamed import to fuelData for clarity
 
 type FuelRecord = {
   city: string;
@@ -9,7 +9,7 @@ type FuelRecord = {
   price: number;
 };
 
-// helper function to compute monthly averages
+// Compute monthly averages
 function getMonthlyAverages(
   dataset: FuelRecord[],
   city: string,
@@ -18,7 +18,6 @@ function getMonthlyAverages(
 ): number[] {
   const monthly: { [key: number]: number[] } = {};
 
-  // filter dataset by city, fuel and year
   dataset.forEach((d) => {
     const dt = new Date(d.date);
     if (
@@ -32,7 +31,6 @@ function getMonthlyAverages(
     }
   });
 
-  // return average price for each month (Jan–Dec)
   return Array.from({ length: 12 }, (_, i) => {
     const prices = monthly[i] || [];
     return prices.length
@@ -42,34 +40,33 @@ function getMonthlyAverages(
 }
 
 const App: React.FC = () => {
-  // unique dropdown options extracted from dataset
+  const data: FuelRecord[] = fuelData as FuelRecord[]; // type assertion for JSON
+
   const cities = Array.from(new Set(data.map((d) => d.city)));
   const fuels = Array.from(new Set(data.map((d) => d.fuel)));
   const datasetYears = Array.from(
     new Set(data.map((d) => new Date(d.date).getFullYear().toString()))
   );
 
-  // add extra years 2023–2025
+  // add 2023, 2024, 2025 also
   const years = Array.from(new Set([...datasetYears, "2023", "2024", "2025"]));
 
-  // selected dropdown values (state)
-  const [city, setCity] = useState(cities[0]);
-  const [fuel, setFuel] = useState(fuels[0]);
-  const [year, setYear] = useState(years[0]);
+  // set safe defaults (if dataset is empty, fall back to first from list or "")
+  const [city, setCity] = useState(cities[0] || "");
+  const [fuel, setFuel] = useState(fuels[0] || "");
+  const [year, setYear] = useState(years[0] || "");
 
-  // compute monthly averages for chart based on selected filters
   const monthlyData = getMonthlyAverages(data, city, fuel, year);
 
   return (
     <div style={{ padding: "20px", fontFamily: "Arial" }}>
-      {/* dashboard heading */}
       <h2 style={{ textAlign: "center" }}>Fuel RSP Dashboard</h2>
 
-      {/* centered dropdown filters */}
+      {/* Center dropdowns */}
       <div
         style={{
           display: "flex",
-          justifyContent: "center",
+          justifyContent: "center", // changed back to center
           gap: "1rem",
           marginBottom: "20px",
         }}
@@ -93,7 +90,6 @@ const App: React.FC = () => {
         </select>
       </div>
 
-      {/* bar chart visualization */}
       <Chart data={monthlyData} />
     </div>
   );
