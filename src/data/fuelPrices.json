@@ -1,0 +1,8642 @@
+[
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-01-01",
+    "price": 95.03
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-01-06",
+    "price": 97.08
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-01-11",
+    "price": 99.35
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-01-16",
+    "price": 96.74
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-01-21",
+    "price": 95.75
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-02-01",
+    "price": 95.74
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-02-06",
+    "price": 96.27
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-02-11",
+    "price": 96.33
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-02-16",
+    "price": 95.59
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-02-21",
+    "price": 95.51
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-03-01",
+    "price": 97.24
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-03-06",
+    "price": 96.35
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-03-11",
+    "price": 99.42
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-03-16",
+    "price": 96.82
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-03-21",
+    "price": 95.3
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-04-01",
+    "price": 97.87
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-04-06",
+    "price": 97.88
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-04-11",
+    "price": 95.93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-04-16",
+    "price": 95.29
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-04-21",
+    "price": 97.32
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-05-01",
+    "price": 96.06
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-05-06",
+    "price": 98.63
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-05-11",
+    "price": 95.65
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-05-16",
+    "price": 99.63
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-05-21",
+    "price": 98.18
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-06-01",
+    "price": 99.75
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-06-06",
+    "price": 98.3
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-06-11",
+    "price": 95.42
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-06-16",
+    "price": 98.02
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-06-21",
+    "price": 97.19
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-07-01",
+    "price": 97.45
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-07-06",
+    "price": 99.54
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-07-11",
+    "price": 99.83
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-07-16",
+    "price": 96.89
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-07-21",
+    "price": 97.96
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-08-01",
+    "price": 98.93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-08-06",
+    "price": 96.32
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-08-11",
+    "price": 97.58
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-08-16",
+    "price": 98.15
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-08-21",
+    "price": 95.89
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-09-01",
+    "price": 95.09
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-09-06",
+    "price": 99.49
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-09-11",
+    "price": 96.93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-09-16",
+    "price": 99.51
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-09-21",
+    "price": 95.9
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-10-01",
+    "price": 95.4
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-10-06",
+    "price": 95.37
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-10-11",
+    "price": 95.45
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-10-16",
+    "price": 96.59
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-10-21",
+    "price": 99.69
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-11-01",
+    "price": 99.9
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-11-06",
+    "price": 95.35
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-11-11",
+    "price": 98.08
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-11-16",
+    "price": 96.27
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-11-21",
+    "price": 98.76
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-12-01",
+    "price": 95.65
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-12-06",
+    "price": 99.38
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-12-11",
+    "price": 98.22
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-12-16",
+    "price": 96.06
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2021-12-21",
+    "price": 98.56
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-01-01",
+    "price": 99.35
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-01-06",
+    "price": 98.44
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-01-11",
+    "price": 98.38
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-01-16",
+    "price": 100.07
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-01-21",
+    "price": 101.46
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-02-01",
+    "price": 99.87
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-02-06",
+    "price": 100.19
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-02-11",
+    "price": 99.68
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-02-16",
+    "price": 101.58
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-02-21",
+    "price": 100.36
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-03-01",
+    "price": 99.2
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-03-06",
+    "price": 101.78
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-03-11",
+    "price": 100.42
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-03-16",
+    "price": 97.24
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-03-21",
+    "price": 97.84
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-04-01",
+    "price": 97.66
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-04-06",
+    "price": 99.54
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-04-11",
+    "price": 99.11
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-04-16",
+    "price": 97.45
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-04-21",
+    "price": 100.72
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-05-01",
+    "price": 101.92
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-05-06",
+    "price": 99.87
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-05-11",
+    "price": 97.57
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-05-16",
+    "price": 99.63
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-05-21",
+    "price": 100.86
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-06-01",
+    "price": 99.68
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-06-06",
+    "price": 97.36
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-06-11",
+    "price": 100.39
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-06-16",
+    "price": 98.59
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-06-21",
+    "price": 100.78
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-07-01",
+    "price": 99.52
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-07-06",
+    "price": 97.29
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-07-11",
+    "price": 97.72
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-07-16",
+    "price": 100.65
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-07-21",
+    "price": 100.49
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-08-01",
+    "price": 98.51
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-08-06",
+    "price": 101.64
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-08-11",
+    "price": 101.96
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-08-16",
+    "price": 100.53
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-08-21",
+    "price": 100.68
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-09-01",
+    "price": 98.04
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-09-06",
+    "price": 98.19
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-09-11",
+    "price": 100.23
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-09-16",
+    "price": 99.61
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-09-21",
+    "price": 97.44
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-10-01",
+    "price": 100.11
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-10-06",
+    "price": 98.42
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-10-11",
+    "price": 101.74
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-10-16",
+    "price": 97.66
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-10-21",
+    "price": 99.09
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-11-01",
+    "price": 99.33
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-11-06",
+    "price": 98.43
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-11-11",
+    "price": 99.95
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-11-16",
+    "price": 98.33
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-11-21",
+    "price": 101
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-12-01",
+    "price": 97.12
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-12-06",
+    "price": 100.02
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-12-11",
+    "price": 101.57
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-12-16",
+    "price": 98.78
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2022-12-21",
+    "price": 97.59
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-01-01",
+    "price": 102.75
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-01-06",
+    "price": 100.32
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-01-11",
+    "price": 102.4
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-01-16",
+    "price": 100.81
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-01-21",
+    "price": 99.94
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-02-01",
+    "price": 100.4
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-02-06",
+    "price": 100.84
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-02-11",
+    "price": 102.92
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-02-16",
+    "price": 100.72
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-02-21",
+    "price": 102.24
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-03-01",
+    "price": 99.08
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-03-06",
+    "price": 103.36
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-03-11",
+    "price": 103.59
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-03-16",
+    "price": 102.35
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-03-21",
+    "price": 99.83
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-04-01",
+    "price": 103.75
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-04-06",
+    "price": 101.57
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-04-11",
+    "price": 102.86
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-04-16",
+    "price": 99.56
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-04-21",
+    "price": 99.82
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-05-01",
+    "price": 100.69
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-05-06",
+    "price": 103.35
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-05-11",
+    "price": 103.27
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-05-16",
+    "price": 102.06
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-05-21",
+    "price": 99.39
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-06-01",
+    "price": 99.8
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-06-06",
+    "price": 102.01
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-06-11",
+    "price": 103.75
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-06-16",
+    "price": 102.63
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-06-21",
+    "price": 102.3
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-07-01",
+    "price": 103.81
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-07-06",
+    "price": 101.44
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-07-11",
+    "price": 102.92
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-07-16",
+    "price": 103.1
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-07-21",
+    "price": 102.41
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-08-01",
+    "price": 103.74
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-08-06",
+    "price": 103.36
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-08-11",
+    "price": 101.64
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-08-16",
+    "price": 99.35
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-08-21",
+    "price": 99.5
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-09-01",
+    "price": 102.31
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-09-06",
+    "price": 102.47
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-09-11",
+    "price": 102.93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-09-16",
+    "price": 103.88
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-09-21",
+    "price": 99.94
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-10-01",
+    "price": 101.3
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-10-06",
+    "price": 99.6
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-10-11",
+    "price": 99.43
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-10-16",
+    "price": 99.24
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-10-21",
+    "price": 102.78
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-11-01",
+    "price": 101.47
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-11-06",
+    "price": 101.1
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-11-11",
+    "price": 103.84
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-11-16",
+    "price": 99.49
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-11-21",
+    "price": 99.79
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-12-01",
+    "price": 99.21
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-12-06",
+    "price": 102.72
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-12-11",
+    "price": 100.19
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-12-16",
+    "price": 101.25
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "date": "2023-12-21",
+    "price": 101.26
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-01-01",
+    "price": 88.99
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-01-06",
+    "price": 87.93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-01-11",
+    "price": 89.61
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-01-16",
+    "price": 87.77
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-01-21",
+    "price": 88.96
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-02-01",
+    "price": 88.24
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-02-06",
+    "price": 88.6
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-02-11",
+    "price": 86.16
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-02-16",
+    "price": 89.44
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-02-21",
+    "price": 86.06
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-03-01",
+    "price": 86.4
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-03-06",
+    "price": 90.27
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-03-11",
+    "price": 86.36
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-03-16",
+    "price": 90.87
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-03-21",
+    "price": 86.28
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-04-01",
+    "price": 88.93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-04-06",
+    "price": 89.16
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-04-11",
+    "price": 90.06
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-04-16",
+    "price": 87.46
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-04-21",
+    "price": 86.43
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-05-01",
+    "price": 88.72
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-05-06",
+    "price": 89.56
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-05-11",
+    "price": 90.46
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-05-16",
+    "price": 86.32
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-05-21",
+    "price": 90.26
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-06-01",
+    "price": 88.69
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-06-06",
+    "price": 86.18
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-06-11",
+    "price": 89.19
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-06-16",
+    "price": 86.17
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-06-21",
+    "price": 86.45
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-07-01",
+    "price": 90.38
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-07-06",
+    "price": 87.29
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-07-11",
+    "price": 89.33
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-07-16",
+    "price": 86.36
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-07-21",
+    "price": 86.47
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-08-01",
+    "price": 87.38
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-08-06",
+    "price": 89.81
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-08-11",
+    "price": 87.86
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-08-16",
+    "price": 87.75
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-08-21",
+    "price": 90.99
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-09-01",
+    "price": 86.02
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-09-06",
+    "price": 87.01
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-09-11",
+    "price": 90.18
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-09-16",
+    "price": 90.37
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-09-21",
+    "price": 86.28
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-10-01",
+    "price": 86.81
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-10-06",
+    "price": 90.33
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-10-11",
+    "price": 89
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-10-16",
+    "price": 90.67
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-10-21",
+    "price": 86.02
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-11-01",
+    "price": 86.83
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-11-06",
+    "price": 88.75
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-11-11",
+    "price": 88.6
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-11-16",
+    "price": 90.32
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-11-21",
+    "price": 86.02
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-12-01",
+    "price": 88.09
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-12-06",
+    "price": 86.75
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-12-11",
+    "price": 86.14
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-12-16",
+    "price": 89.74
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2021-12-21",
+    "price": 90.42
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-01-01",
+    "price": 90.75
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-01-06",
+    "price": 89.52
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-01-11",
+    "price": 91.55
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-01-16",
+    "price": 92.5
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-01-21",
+    "price": 91.7
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-02-01",
+    "price": 91.6
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-02-06",
+    "price": 89
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-02-11",
+    "price": 89.72
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-02-16",
+    "price": 90.82
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-02-21",
+    "price": 90.94
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-03-01",
+    "price": 92.16
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-03-06",
+    "price": 89.42
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-03-11",
+    "price": 89.14
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-03-16",
+    "price": 88.35
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-03-21",
+    "price": 91.15
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-04-01",
+    "price": 91.8
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-04-06",
+    "price": 91.15
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-04-11",
+    "price": 90.75
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-04-16",
+    "price": 89.49
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-04-21",
+    "price": 91.38
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-05-01",
+    "price": 92.34
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-05-06",
+    "price": 91.03
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-05-11",
+    "price": 90.36
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-05-16",
+    "price": 89.35
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-05-21",
+    "price": 92.98
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-06-01",
+    "price": 90.5
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-06-06",
+    "price": 90.29
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-06-11",
+    "price": 91.85
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-06-16",
+    "price": 89.39
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-06-21",
+    "price": 91.93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-07-01",
+    "price": 89.49
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-07-06",
+    "price": 88.55
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-07-11",
+    "price": 90.69
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-07-16",
+    "price": 89.08
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-07-21",
+    "price": 88.47
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-08-01",
+    "price": 89.34
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-08-06",
+    "price": 90.68
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-08-11",
+    "price": 90.1
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-08-16",
+    "price": 88.49
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-08-21",
+    "price": 92.21
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-09-01",
+    "price": 89.25
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-09-06",
+    "price": 88.76
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-09-11",
+    "price": 89.15
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-09-16",
+    "price": 91.54
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-09-21",
+    "price": 88.61
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-10-01",
+    "price": 89.52
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-10-06",
+    "price": 89.2
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-10-11",
+    "price": 92.51
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-10-16",
+    "price": 91.67
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-10-21",
+    "price": 90.72
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-11-01",
+    "price": 89.29
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-11-06",
+    "price": 91.95
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-11-11",
+    "price": 91.32
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-11-16",
+    "price": 92.74
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-11-21",
+    "price": 90.39
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-12-01",
+    "price": 88.76
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-12-06",
+    "price": 89.98
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-12-11",
+    "price": 89.99
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-12-16",
+    "price": 92.8
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2022-12-21",
+    "price": 91.58
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-01-01",
+    "price": 91.2
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-01-06",
+    "price": 93.38
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-01-11",
+    "price": 91.58
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-01-16",
+    "price": 92.51
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-01-21",
+    "price": 90.72
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-02-01",
+    "price": 90.03
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-02-06",
+    "price": 90.8
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-02-11",
+    "price": 92.34
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-02-16",
+    "price": 92.36
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-02-21",
+    "price": 92.19
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-03-01",
+    "price": 94.3
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-03-06",
+    "price": 90.28
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-03-11",
+    "price": 94.33
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-03-16",
+    "price": 93.84
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-03-21",
+    "price": 92.11
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-04-01",
+    "price": 94.85
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-04-06",
+    "price": 94.34
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-04-11",
+    "price": 91.88
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-04-16",
+    "price": 93.69
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-04-21",
+    "price": 90.76
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-05-01",
+    "price": 90.03
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-05-06",
+    "price": 92.1
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-05-11",
+    "price": 90.61
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-05-16",
+    "price": 90.24
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-05-21",
+    "price": 92.92
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-06-01",
+    "price": 90.96
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-06-06",
+    "price": 90.65
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-06-11",
+    "price": 90.83
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-06-16",
+    "price": 94.08
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-06-21",
+    "price": 91.67
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-07-01",
+    "price": 91.26
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-07-06",
+    "price": 92.95
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-07-11",
+    "price": 92.23
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-07-16",
+    "price": 93.42
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-07-21",
+    "price": 94.18
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-08-01",
+    "price": 91.98
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-08-06",
+    "price": 90.41
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-08-11",
+    "price": 94.45
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-08-16",
+    "price": 90.63
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-08-21",
+    "price": 92.42
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-09-01",
+    "price": 93.14
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-09-06",
+    "price": 93.57
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-09-11",
+    "price": 91.1
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-09-16",
+    "price": 91.4
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-09-21",
+    "price": 90.74
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-10-01",
+    "price": 92.93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-10-06",
+    "price": 91.25
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-10-11",
+    "price": 90.95
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-10-16",
+    "price": 90.35
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-10-21",
+    "price": 93.11
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-11-01",
+    "price": 91.71
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-11-06",
+    "price": 92.82
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-11-11",
+    "price": 90.1
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-11-16",
+    "price": 94.9
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-11-21",
+    "price": 93.16
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-12-01",
+    "price": 92.23
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-12-06",
+    "price": 94.93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-12-11",
+    "price": 94.32
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-12-16",
+    "price": 90.53
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "date": "2023-12-21",
+    "price": 93.89
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-01-01",
+    "price": 97.25
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-01-06",
+    "price": 95.25
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-01-11",
+    "price": 96.97
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-01-16",
+    "price": 99.79
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-01-21",
+    "price": 99.03
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-02-01",
+    "price": 97.02
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-02-06",
+    "price": 98.67
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-02-11",
+    "price": 95.64
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-02-16",
+    "price": 96.98
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-02-21",
+    "price": 96.65
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-03-01",
+    "price": 96.88
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-03-06",
+    "price": 97.13
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-03-11",
+    "price": 97.51
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-03-16",
+    "price": 99.01
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-03-21",
+    "price": 97.28
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-04-01",
+    "price": 95.39
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-04-06",
+    "price": 99.54
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-04-11",
+    "price": 96.8
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-04-16",
+    "price": 95.53
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-04-21",
+    "price": 98.21
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-05-01",
+    "price": 99.59
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-05-06",
+    "price": 96.29
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-05-11",
+    "price": 97.28
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-05-16",
+    "price": 98.27
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-05-21",
+    "price": 95.91
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-06-01",
+    "price": 96.67
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-06-06",
+    "price": 95.63
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-06-11",
+    "price": 97.61
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-06-16",
+    "price": 97.83
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-06-21",
+    "price": 97.08
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-07-01",
+    "price": 96.22
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-07-06",
+    "price": 98.17
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-07-11",
+    "price": 99.88
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-07-16",
+    "price": 97.33
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-07-21",
+    "price": 98.59
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-08-01",
+    "price": 98.73
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-08-06",
+    "price": 99.14
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-08-11",
+    "price": 95.72
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-08-16",
+    "price": 97.19
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-08-21",
+    "price": 95.12
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-09-01",
+    "price": 99.27
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-09-06",
+    "price": 98.8
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-09-11",
+    "price": 97.65
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-09-16",
+    "price": 98.6
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-09-21",
+    "price": 98.3
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-10-01",
+    "price": 98.87
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-10-06",
+    "price": 98.99
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-10-11",
+    "price": 95.48
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-10-16",
+    "price": 97.12
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-10-21",
+    "price": 98.94
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-11-01",
+    "price": 97.53
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-11-06",
+    "price": 96.1
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-11-11",
+    "price": 95.22
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-11-16",
+    "price": 97.03
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-11-21",
+    "price": 98.85
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-12-01",
+    "price": 95.05
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-12-06",
+    "price": 98.67
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-12-11",
+    "price": 98.67
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-12-16",
+    "price": 99.67
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2021-12-21",
+    "price": 98.68
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-01-01",
+    "price": 101.79
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-01-06",
+    "price": 99.27
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-01-11",
+    "price": 100.61
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-01-16",
+    "price": 101.53
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-01-21",
+    "price": 101.14
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-02-01",
+    "price": 100.65
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-02-06",
+    "price": 101.82
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-02-11",
+    "price": 101.98
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-02-16",
+    "price": 101.37
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-02-21",
+    "price": 101.78
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-03-01",
+    "price": 99.15
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-03-06",
+    "price": 97.29
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-03-11",
+    "price": 99.93
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-03-16",
+    "price": 98.33
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-03-21",
+    "price": 99.63
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-04-01",
+    "price": 99.12
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-04-06",
+    "price": 99.11
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-04-11",
+    "price": 100.76
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-04-16",
+    "price": 101.55
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-04-21",
+    "price": 100.5
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-05-01",
+    "price": 101.26
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-05-06",
+    "price": 100.35
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-05-11",
+    "price": 99.88
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-05-16",
+    "price": 100.38
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-05-21",
+    "price": 99.09
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-06-01",
+    "price": 100.16
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-06-06",
+    "price": 98.4
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-06-11",
+    "price": 98.33
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-06-16",
+    "price": 100.26
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-06-21",
+    "price": 98.15
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-07-01",
+    "price": 97.35
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-07-06",
+    "price": 98.74
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-07-11",
+    "price": 101.27
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-07-16",
+    "price": 99.44
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-07-21",
+    "price": 101.53
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-08-01",
+    "price": 98.05
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-08-06",
+    "price": 100.98
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-08-11",
+    "price": 97.61
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-08-16",
+    "price": 97.99
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-08-21",
+    "price": 97.66
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-09-01",
+    "price": 99.01
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-09-06",
+    "price": 100.45
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-09-11",
+    "price": 97.45
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-09-16",
+    "price": 98.07
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-09-21",
+    "price": 100.96
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-10-01",
+    "price": 98.11
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-10-06",
+    "price": 100.23
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-10-11",
+    "price": 101.07
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-10-16",
+    "price": 99.72
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-10-21",
+    "price": 98.65
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-11-01",
+    "price": 97.88
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-11-06",
+    "price": 97.35
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-11-11",
+    "price": 97.2
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-11-16",
+    "price": 98.7
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-11-21",
+    "price": 97.83
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-12-01",
+    "price": 98.76
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-12-06",
+    "price": 99.73
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-12-11",
+    "price": 100.02
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-12-16",
+    "price": 98.64
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2022-12-21",
+    "price": 97.66
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-01-01",
+    "price": 100.01
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-01-06",
+    "price": 101.81
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-01-11",
+    "price": 103.44
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-01-16",
+    "price": 101.83
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-01-21",
+    "price": 102.99
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-02-01",
+    "price": 100.48
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-02-06",
+    "price": 100.75
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-02-11",
+    "price": 99.96
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-02-16",
+    "price": 101.2
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-02-21",
+    "price": 100.8
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-03-01",
+    "price": 100.46
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-03-06",
+    "price": 99.33
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-03-11",
+    "price": 103.39
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-03-16",
+    "price": 101.79
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-03-21",
+    "price": 101.63
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-04-01",
+    "price": 101.4
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-04-06",
+    "price": 101.77
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-04-11",
+    "price": 100.61
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-04-16",
+    "price": 102.16
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-04-21",
+    "price": 103.21
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-05-01",
+    "price": 103.86
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-05-06",
+    "price": 102.77
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-05-11",
+    "price": 100.34
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-05-16",
+    "price": 99.54
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-05-21",
+    "price": 101.13
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-06-01",
+    "price": 103.46
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-06-06",
+    "price": 100.22
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-06-11",
+    "price": 101.67
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-06-16",
+    "price": 103.11
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-06-21",
+    "price": 100.9
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-07-01",
+    "price": 101.02
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-07-06",
+    "price": 100.63
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-07-11",
+    "price": 102.44
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-07-16",
+    "price": 101.81
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-07-21",
+    "price": 101.91
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-08-01",
+    "price": 102.46
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-08-06",
+    "price": 102.27
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-08-11",
+    "price": 102.78
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-08-16",
+    "price": 102.69
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-08-21",
+    "price": 99.46
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-09-01",
+    "price": 100.38
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-09-06",
+    "price": 101.95
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-09-11",
+    "price": 101.68
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-09-16",
+    "price": 99.45
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-09-21",
+    "price": 102.6
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-10-01",
+    "price": 103.37
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-10-06",
+    "price": 102.35
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-10-11",
+    "price": 101.96
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-10-16",
+    "price": 100.3
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-10-21",
+    "price": 101.01
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-11-01",
+    "price": 102.32
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-11-06",
+    "price": 103.74
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-11-11",
+    "price": 102.39
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-11-16",
+    "price": 101.61
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-11-21",
+    "price": 100.29
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-12-01",
+    "price": 99.3
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-12-06",
+    "price": 101.22
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-12-11",
+    "price": 101.08
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-12-16",
+    "price": 101.94
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "date": "2023-12-21",
+    "price": 101.19
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-01-01",
+    "price": 88.24
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-01-06",
+    "price": 86.24
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-01-11",
+    "price": 86.13
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-01-16",
+    "price": 88.77
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-01-21",
+    "price": 89.04
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-02-01",
+    "price": 89.97
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-02-06",
+    "price": 88.2
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-02-11",
+    "price": 86.38
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-02-16",
+    "price": 90.13
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-02-21",
+    "price": 86.51
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-03-01",
+    "price": 89.21
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-03-06",
+    "price": 90.27
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-03-11",
+    "price": 90.64
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-03-16",
+    "price": 86.19
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-03-21",
+    "price": 89.29
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-04-01",
+    "price": 90.09
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-04-06",
+    "price": 88.92
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-04-11",
+    "price": 87.27
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-04-16",
+    "price": 88.52
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-04-21",
+    "price": 87.24
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-05-01",
+    "price": 88.51
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-05-06",
+    "price": 87.84
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-05-11",
+    "price": 88.27
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-05-16",
+    "price": 88.08
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-05-21",
+    "price": 86.7
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-06-01",
+    "price": 86.24
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-06-06",
+    "price": 89.67
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-06-11",
+    "price": 89.6
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-06-16",
+    "price": 89.75
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-06-21",
+    "price": 88.89
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-07-01",
+    "price": 88.96
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-07-06",
+    "price": 87.08
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-07-11",
+    "price": 87.7
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-07-16",
+    "price": 90.57
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-07-21",
+    "price": 90.84
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-08-01",
+    "price": 90
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-08-06",
+    "price": 89.37
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-08-11",
+    "price": 86.61
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-08-16",
+    "price": 89.01
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-08-21",
+    "price": 86.97
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-09-01",
+    "price": 90.92
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-09-06",
+    "price": 88.91
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-09-11",
+    "price": 89.19
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-09-16",
+    "price": 88.1
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-09-21",
+    "price": 86.1
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-10-01",
+    "price": 89.94
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-10-06",
+    "price": 89.78
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-10-11",
+    "price": 89.69
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-10-16",
+    "price": 89.86
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-10-21",
+    "price": 88.84
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-11-01",
+    "price": 89.37
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-11-06",
+    "price": 89.29
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-11-11",
+    "price": 89.93
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-11-16",
+    "price": 86.34
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-11-21",
+    "price": 86.96
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-12-01",
+    "price": 86.93
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-12-06",
+    "price": 86.07
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-12-11",
+    "price": 89.35
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-12-16",
+    "price": 90.16
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2021-12-21",
+    "price": 87.17
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-01-01",
+    "price": 89.67
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-01-06",
+    "price": 92.33
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-01-11",
+    "price": 89.84
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-01-16",
+    "price": 92.58
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-01-21",
+    "price": 92.51
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-02-01",
+    "price": 90.57
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-02-06",
+    "price": 89.82
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-02-11",
+    "price": 91.93
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-02-16",
+    "price": 92.98
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-02-21",
+    "price": 89.22
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-03-01",
+    "price": 90.02
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-03-06",
+    "price": 90.54
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-03-11",
+    "price": 92.05
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-03-16",
+    "price": 89.36
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-03-21",
+    "price": 89.18
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-04-01",
+    "price": 91.25
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-04-06",
+    "price": 90.07
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-04-11",
+    "price": 92.67
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-04-16",
+    "price": 91.79
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-04-21",
+    "price": 90.99
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-05-01",
+    "price": 89.57
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-05-06",
+    "price": 88.8
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-05-11",
+    "price": 89.29
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-05-16",
+    "price": 90.65
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-05-21",
+    "price": 92.14
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-06-01",
+    "price": 90.09
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-06-06",
+    "price": 90.02
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-06-11",
+    "price": 89.89
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-06-16",
+    "price": 91.18
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-06-21",
+    "price": 92.74
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-07-01",
+    "price": 92.31
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-07-06",
+    "price": 92.97
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-07-11",
+    "price": 90.58
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-07-16",
+    "price": 90.53
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-07-21",
+    "price": 91.14
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-08-01",
+    "price": 90.38
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-08-06",
+    "price": 91.29
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-08-11",
+    "price": 89.67
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-08-16",
+    "price": 88.39
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-08-21",
+    "price": 89.4
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-09-01",
+    "price": 91.09
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-09-06",
+    "price": 92.53
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-09-11",
+    "price": 90.56
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-09-16",
+    "price": 92.72
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-09-21",
+    "price": 91.01
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-10-01",
+    "price": 91.5
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-10-06",
+    "price": 91.1
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-10-11",
+    "price": 88.98
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-10-16",
+    "price": 92.44
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-10-21",
+    "price": 90.03
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-11-01",
+    "price": 89.22
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-11-06",
+    "price": 91.2
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-11-11",
+    "price": 89.24
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-11-16",
+    "price": 91.55
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-11-21",
+    "price": 92.6
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-12-01",
+    "price": 89.75
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-12-06",
+    "price": 92.55
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-12-11",
+    "price": 92.14
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-12-16",
+    "price": 91.79
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2022-12-21",
+    "price": 90.34
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-01-01",
+    "price": 90.08
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-01-06",
+    "price": 92.95
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-01-11",
+    "price": 91.51
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-01-16",
+    "price": 90.32
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-01-21",
+    "price": 90.25
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-02-01",
+    "price": 90.69
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-02-06",
+    "price": 94.48
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-02-11",
+    "price": 91.59
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-02-16",
+    "price": 94.41
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-02-21",
+    "price": 90.86
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-03-01",
+    "price": 93.57
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-03-06",
+    "price": 93.43
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-03-11",
+    "price": 93.38
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-03-16",
+    "price": 93.54
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-03-21",
+    "price": 91.81
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-04-01",
+    "price": 90.98
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-04-06",
+    "price": 91.86
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-04-11",
+    "price": 93.82
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-04-16",
+    "price": 91.13
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-04-21",
+    "price": 94.9
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-05-01",
+    "price": 91.21
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-05-06",
+    "price": 92.5
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-05-11",
+    "price": 91.3
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-05-16",
+    "price": 90.66
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-05-21",
+    "price": 94.75
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-06-01",
+    "price": 92.96
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-06-06",
+    "price": 90.5
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-06-11",
+    "price": 93.65
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-06-16",
+    "price": 93.02
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-06-21",
+    "price": 91.57
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-07-01",
+    "price": 90.22
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-07-06",
+    "price": 93.11
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-07-11",
+    "price": 92.02
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-07-16",
+    "price": 91.42
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-07-21",
+    "price": 93.62
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-08-01",
+    "price": 92.4
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-08-06",
+    "price": 93.58
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-08-11",
+    "price": 91.25
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-08-16",
+    "price": 92.74
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-08-21",
+    "price": 93.67
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-09-01",
+    "price": 91.01
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-09-06",
+    "price": 93.48
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-09-11",
+    "price": 93.91
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-09-16",
+    "price": 93.33
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-09-21",
+    "price": 90.47
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-10-01",
+    "price": 93.39
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-10-06",
+    "price": 92.52
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-10-11",
+    "price": 94.63
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-10-16",
+    "price": 90.06
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-10-21",
+    "price": 90.51
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-11-01",
+    "price": 90.33
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-11-06",
+    "price": 90.51
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-11-11",
+    "price": 91.45
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-11-16",
+    "price": 91.23
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-11-21",
+    "price": 93.95
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-12-01",
+    "price": 94.3
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-12-06",
+    "price": 92.91
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-12-11",
+    "price": 92.37
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-12-16",
+    "price": 94
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "date": "2023-12-21",
+    "price": 90.62
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-01-01",
+    "price": 96.61
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-01-06",
+    "price": 98.53
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-01-11",
+    "price": 95.67
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-01-16",
+    "price": 95.59
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-01-21",
+    "price": 97.43
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-02-01",
+    "price": 99.93
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-02-06",
+    "price": 99.96
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-02-11",
+    "price": 95.52
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-02-16",
+    "price": 95.59
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-02-21",
+    "price": 98.89
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-03-01",
+    "price": 95.6
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-03-06",
+    "price": 97.33
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-03-11",
+    "price": 95.82
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-03-16",
+    "price": 95.39
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-03-21",
+    "price": 99.59
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-04-01",
+    "price": 99.28
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-04-06",
+    "price": 96.79
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-04-11",
+    "price": 96.38
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-04-16",
+    "price": 95.29
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-04-21",
+    "price": 98.69
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-05-01",
+    "price": 97.38
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-05-06",
+    "price": 99.03
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-05-11",
+    "price": 96.47
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-05-16",
+    "price": 98.93
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-05-21",
+    "price": 97.79
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-06-01",
+    "price": 98.92
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-06-06",
+    "price": 97.65
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-06-11",
+    "price": 96.26
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-06-16",
+    "price": 99.65
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-06-21",
+    "price": 97.22
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-07-01",
+    "price": 99.81
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-07-06",
+    "price": 99.08
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-07-11",
+    "price": 99.19
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-07-16",
+    "price": 99.45
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-07-21",
+    "price": 98.48
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-08-01",
+    "price": 95.64
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-08-06",
+    "price": 95.23
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-08-11",
+    "price": 98.07
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-08-16",
+    "price": 96.82
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-08-21",
+    "price": 98.79
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-09-01",
+    "price": 97.06
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-09-06",
+    "price": 99.58
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-09-11",
+    "price": 96.69
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-09-16",
+    "price": 97.97
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-09-21",
+    "price": 96.21
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-10-01",
+    "price": 95.38
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-10-06",
+    "price": 98.18
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-10-11",
+    "price": 99.63
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-10-16",
+    "price": 95.94
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-10-21",
+    "price": 97.52
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-11-01",
+    "price": 98.47
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-11-06",
+    "price": 99.85
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-11-11",
+    "price": 96.89
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-11-16",
+    "price": 98.37
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-11-21",
+    "price": 96.74
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-12-01",
+    "price": 95.65
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-12-06",
+    "price": 98.1
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-12-11",
+    "price": 97.71
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-12-16",
+    "price": 98.01
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2021-12-21",
+    "price": 98.03
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-01-01",
+    "price": 101.56
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-01-06",
+    "price": 101.09
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-01-11",
+    "price": 101.2
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-01-16",
+    "price": 101.75
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-01-21",
+    "price": 99.1
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-02-01",
+    "price": 100.4
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-02-06",
+    "price": 99.1
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-02-11",
+    "price": 98.28
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-02-16",
+    "price": 98.35
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-02-21",
+    "price": 98.12
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-03-01",
+    "price": 101.65
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-03-06",
+    "price": 100.82
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-03-11",
+    "price": 100.73
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-03-16",
+    "price": 99.13
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-03-21",
+    "price": 98.06
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-04-01",
+    "price": 101.57
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-04-06",
+    "price": 97.98
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-04-11",
+    "price": 97.01
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-04-16",
+    "price": 98.18
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-04-21",
+    "price": 100.3
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-05-01",
+    "price": 101.26
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-05-06",
+    "price": 99.12
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-05-11",
+    "price": 100.96
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-05-16",
+    "price": 98.82
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-05-21",
+    "price": 101.3
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-06-01",
+    "price": 101.04
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-06-06",
+    "price": 99.97
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-06-11",
+    "price": 100
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-06-16",
+    "price": 98.03
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-06-21",
+    "price": 101.58
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-07-01",
+    "price": 99.86
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-07-06",
+    "price": 99.89
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-07-11",
+    "price": 101.86
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-07-16",
+    "price": 99.54
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-07-21",
+    "price": 98.1
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-08-01",
+    "price": 99.59
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-08-06",
+    "price": 99.4
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-08-11",
+    "price": 100.13
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-08-16",
+    "price": 101.86
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-08-21",
+    "price": 99.57
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-09-01",
+    "price": 99.15
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-09-06",
+    "price": 100.23
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-09-11",
+    "price": 100.7
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-09-16",
+    "price": 99.43
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-09-21",
+    "price": 100.17
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-10-01",
+    "price": 97.78
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-10-06",
+    "price": 101.63
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-10-11",
+    "price": 100.96
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-10-16",
+    "price": 99.98
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-10-21",
+    "price": 99.93
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-11-01",
+    "price": 97.33
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-11-06",
+    "price": 99.91
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-11-11",
+    "price": 98.33
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-11-16",
+    "price": 97.45
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-11-21",
+    "price": 100.81
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-12-01",
+    "price": 99.1
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-12-06",
+    "price": 97.9
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-12-11",
+    "price": 98.08
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-12-16",
+    "price": 99.57
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2022-12-21",
+    "price": 98.36
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-01-01",
+    "price": 101.53
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-01-06",
+    "price": 103.24
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-01-11",
+    "price": 102.19
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-01-16",
+    "price": 102.63
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-01-21",
+    "price": 99.44
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-02-01",
+    "price": 100.11
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-02-06",
+    "price": 99.35
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-02-11",
+    "price": 102.78
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-02-16",
+    "price": 103.92
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-02-21",
+    "price": 101.66
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-03-01",
+    "price": 101.96
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-03-06",
+    "price": 102.03
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-03-11",
+    "price": 100.04
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-03-16",
+    "price": 102.17
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-03-21",
+    "price": 101.26
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-04-01",
+    "price": 100.26
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-04-06",
+    "price": 99.83
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-04-11",
+    "price": 101.91
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-04-16",
+    "price": 102.19
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-04-21",
+    "price": 99.98
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-05-01",
+    "price": 100.09
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-05-06",
+    "price": 101.27
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-05-11",
+    "price": 100.78
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-05-16",
+    "price": 99.35
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-05-21",
+    "price": 101.16
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-06-01",
+    "price": 101.57
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-06-06",
+    "price": 100.13
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-06-11",
+    "price": 103.04
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-06-16",
+    "price": 101.93
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-06-21",
+    "price": 101.53
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-07-01",
+    "price": 102.83
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-07-06",
+    "price": 100.14
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-07-11",
+    "price": 100.68
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-07-16",
+    "price": 100.95
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-07-21",
+    "price": 101.91
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-08-01",
+    "price": 100.37
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-08-06",
+    "price": 102.36
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-08-11",
+    "price": 103.09
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-08-16",
+    "price": 102.53
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-08-21",
+    "price": 102.22
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-09-01",
+    "price": 100.32
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-09-06",
+    "price": 101.82
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-09-11",
+    "price": 103.15
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-09-16",
+    "price": 101.95
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-09-21",
+    "price": 103.25
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-10-01",
+    "price": 101.45
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-10-06",
+    "price": 100.57
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-10-11",
+    "price": 103.24
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-10-16",
+    "price": 100.29
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-10-21",
+    "price": 103.51
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-11-01",
+    "price": 101.09
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-11-06",
+    "price": 100.41
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-11-11",
+    "price": 103.62
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-11-16",
+    "price": 99.76
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-11-21",
+    "price": 102.41
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-12-01",
+    "price": 103.75
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-12-06",
+    "price": 102.43
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-12-11",
+    "price": 103.56
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-12-16",
+    "price": 101.91
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "date": "2023-12-21",
+    "price": 99.41
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-01-01",
+    "price": 88.77
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-01-06",
+    "price": 89.27
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-01-11",
+    "price": 89.63
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-01-16",
+    "price": 88.06
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-01-21",
+    "price": 90.53
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-02-01",
+    "price": 89.83
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-02-06",
+    "price": 88.25
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-02-11",
+    "price": 86.77
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-02-16",
+    "price": 86.66
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-02-21",
+    "price": 86.34
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-03-01",
+    "price": 89.97
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-03-06",
+    "price": 87.43
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-03-11",
+    "price": 90.98
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-03-16",
+    "price": 89.56
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-03-21",
+    "price": 90.93
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-04-01",
+    "price": 87.65
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-04-06",
+    "price": 90.88
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-04-11",
+    "price": 87.36
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-04-16",
+    "price": 88.58
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-04-21",
+    "price": 86.37
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-05-01",
+    "price": 89.85
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-05-06",
+    "price": 90.18
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-05-11",
+    "price": 88.52
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-05-16",
+    "price": 88.12
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-05-21",
+    "price": 88
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-06-01",
+    "price": 87.83
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-06-06",
+    "price": 88.77
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-06-11",
+    "price": 88.51
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-06-16",
+    "price": 88.76
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-06-21",
+    "price": 88.57
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-07-01",
+    "price": 88.46
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-07-06",
+    "price": 87.41
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-07-11",
+    "price": 89.71
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-07-16",
+    "price": 88.42
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-07-21",
+    "price": 88.62
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-08-01",
+    "price": 90.57
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-08-06",
+    "price": 87.57
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-08-11",
+    "price": 86.42
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-08-16",
+    "price": 87.1
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-08-21",
+    "price": 88.33
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-09-01",
+    "price": 89.02
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-09-06",
+    "price": 90.86
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-09-11",
+    "price": 87.09
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-09-16",
+    "price": 88.11
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-09-21",
+    "price": 86.36
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-10-01",
+    "price": 88.65
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-10-06",
+    "price": 89.55
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-10-11",
+    "price": 87.2
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-10-16",
+    "price": 86.91
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-10-21",
+    "price": 86.74
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-11-01",
+    "price": 89.37
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-11-06",
+    "price": 90.3
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-11-11",
+    "price": 89.2
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-11-16",
+    "price": 90.71
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-11-21",
+    "price": 90.33
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-12-01",
+    "price": 90.17
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-12-06",
+    "price": 89.01
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-12-11",
+    "price": 87.51
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-12-16",
+    "price": 86.99
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2021-12-21",
+    "price": 90.4
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-01-01",
+    "price": 88.1
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-01-06",
+    "price": 90.64
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-01-11",
+    "price": 90.52
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-01-16",
+    "price": 91.85
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-01-21",
+    "price": 89.89
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-02-01",
+    "price": 90.42
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-02-06",
+    "price": 92.13
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-02-11",
+    "price": 88.89
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-02-16",
+    "price": 91.3
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-02-21",
+    "price": 88.53
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-03-01",
+    "price": 91.88
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-03-06",
+    "price": 89.84
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-03-11",
+    "price": 88.2
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-03-16",
+    "price": 89.65
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-03-21",
+    "price": 90.32
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-04-01",
+    "price": 92.59
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-04-06",
+    "price": 88.97
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-04-11",
+    "price": 88.25
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-04-16",
+    "price": 92.87
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-04-21",
+    "price": 88.33
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-05-01",
+    "price": 88.37
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-05-06",
+    "price": 89.23
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-05-11",
+    "price": 88.08
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-05-16",
+    "price": 89.46
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-05-21",
+    "price": 91.12
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-06-01",
+    "price": 91.31
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-06-06",
+    "price": 92.4
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-06-11",
+    "price": 89.01
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-06-16",
+    "price": 90.5
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-06-21",
+    "price": 89.06
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-07-01",
+    "price": 91.04
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-07-06",
+    "price": 91.14
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-07-11",
+    "price": 88.96
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-07-16",
+    "price": 92.64
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-07-21",
+    "price": 89.94
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-08-01",
+    "price": 90.35
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-08-06",
+    "price": 91.77
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-08-11",
+    "price": 91.16
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-08-16",
+    "price": 88.32
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-08-21",
+    "price": 90.2
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-09-01",
+    "price": 88.68
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-09-06",
+    "price": 89.15
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-09-11",
+    "price": 88.27
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-09-16",
+    "price": 90.23
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-09-21",
+    "price": 91.07
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-10-01",
+    "price": 88.58
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-10-06",
+    "price": 89.16
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-10-11",
+    "price": 89.04
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-10-16",
+    "price": 92.21
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-10-21",
+    "price": 90.57
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-11-01",
+    "price": 88.64
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-11-06",
+    "price": 91.14
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-11-11",
+    "price": 90.53
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-11-16",
+    "price": 88.42
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-11-21",
+    "price": 92.4
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-12-01",
+    "price": 90.84
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-12-06",
+    "price": 91.52
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-12-11",
+    "price": 89.71
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-12-16",
+    "price": 91.98
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2022-12-21",
+    "price": 92.57
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-01-01",
+    "price": 93.51
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-01-06",
+    "price": 91.75
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-01-11",
+    "price": 93.19
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-01-16",
+    "price": 91.8
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-01-21",
+    "price": 91.13
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-02-01",
+    "price": 94.3
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-02-06",
+    "price": 93.8
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-02-11",
+    "price": 91.54
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-02-16",
+    "price": 94.21
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-02-21",
+    "price": 93.14
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-03-01",
+    "price": 94.68
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-03-06",
+    "price": 90.19
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-03-11",
+    "price": 92.51
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-03-16",
+    "price": 92.6
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-03-21",
+    "price": 92.55
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-04-01",
+    "price": 90.31
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-04-06",
+    "price": 90.94
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-04-11",
+    "price": 93.3
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-04-16",
+    "price": 94.33
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-04-21",
+    "price": 93.63
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-05-01",
+    "price": 94.85
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-05-06",
+    "price": 92.38
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-05-11",
+    "price": 92.83
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-05-16",
+    "price": 92.23
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-05-21",
+    "price": 91.1
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-06-01",
+    "price": 92.54
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-06-06",
+    "price": 91.38
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-06-11",
+    "price": 91.94
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-06-16",
+    "price": 90.3
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-06-21",
+    "price": 90.45
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-07-01",
+    "price": 93.07
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-07-06",
+    "price": 93.83
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-07-11",
+    "price": 93.66
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-07-16",
+    "price": 92.34
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-07-21",
+    "price": 94.69
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-08-01",
+    "price": 92.56
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-08-06",
+    "price": 92.9
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-08-11",
+    "price": 92.84
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-08-16",
+    "price": 94.73
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-08-21",
+    "price": 92.3
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-09-01",
+    "price": 93.84
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-09-06",
+    "price": 91.76
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-09-11",
+    "price": 91.16
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-09-16",
+    "price": 90.87
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-09-21",
+    "price": 93.21
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-10-01",
+    "price": 93
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-10-06",
+    "price": 90.35
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-10-11",
+    "price": 91.47
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-10-16",
+    "price": 92.18
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-10-21",
+    "price": 90.22
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-11-01",
+    "price": 90.08
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-11-06",
+    "price": 94.7
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-11-11",
+    "price": 91.58
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-11-16",
+    "price": 91.07
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-11-21",
+    "price": 92.77
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-12-01",
+    "price": 92.3
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-12-06",
+    "price": 92.47
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-12-11",
+    "price": 92.49
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-12-16",
+    "price": 93.07
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "date": "2023-12-21",
+    "price": 92.23
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-01-01",
+    "price": 95.06
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-01-06",
+    "price": 98.38
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-01-11",
+    "price": 97.05
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-01-16",
+    "price": 97.64
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-01-21",
+    "price": 95.01
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-02-01",
+    "price": 96.16
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-02-06",
+    "price": 97.31
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-02-11",
+    "price": 95.53
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-02-16",
+    "price": 98.26
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-02-21",
+    "price": 99.68
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-03-01",
+    "price": 99.37
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-03-06",
+    "price": 95.59
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-03-11",
+    "price": 99.8
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-03-16",
+    "price": 99
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-03-21",
+    "price": 95.7
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-04-01",
+    "price": 95.88
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-04-06",
+    "price": 97.52
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-04-11",
+    "price": 95.05
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-04-16",
+    "price": 97.99
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-04-21",
+    "price": 98.63
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-05-01",
+    "price": 95.04
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-05-06",
+    "price": 96.62
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-05-11",
+    "price": 99.26
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-05-16",
+    "price": 96.99
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-05-21",
+    "price": 95.95
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-06-01",
+    "price": 97.66
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-06-06",
+    "price": 96.24
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-06-11",
+    "price": 96.6
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-06-16",
+    "price": 99.76
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-06-21",
+    "price": 98.68
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-07-01",
+    "price": 98.29
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-07-06",
+    "price": 99.62
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-07-11",
+    "price": 95.42
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-07-16",
+    "price": 99.54
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-07-21",
+    "price": 96.34
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-08-01",
+    "price": 98.39
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-08-06",
+    "price": 98.75
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-08-11",
+    "price": 95.02
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-08-16",
+    "price": 95.95
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-08-21",
+    "price": 99.81
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-09-01",
+    "price": 99.87
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-09-06",
+    "price": 96.96
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-09-11",
+    "price": 98.68
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-09-16",
+    "price": 99.39
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-09-21",
+    "price": 95.06
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-10-01",
+    "price": 98.04
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-10-06",
+    "price": 96.7
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-10-11",
+    "price": 96.64
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-10-16",
+    "price": 96.89
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-10-21",
+    "price": 99.17
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-11-01",
+    "price": 95.66
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-11-06",
+    "price": 98.09
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-11-11",
+    "price": 99.09
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-11-16",
+    "price": 97.83
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-11-21",
+    "price": 96.03
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-12-01",
+    "price": 99.72
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-12-06",
+    "price": 98.49
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-12-11",
+    "price": 99.78
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-12-16",
+    "price": 99.05
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2021-12-21",
+    "price": 97.11
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-01-01",
+    "price": 101.68
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-01-06",
+    "price": 100.25
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-01-11",
+    "price": 100.86
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-01-16",
+    "price": 97.13
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-01-21",
+    "price": 97.72
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-02-01",
+    "price": 99.6
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-02-06",
+    "price": 97.71
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-02-11",
+    "price": 98.58
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-02-16",
+    "price": 101.41
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-02-21",
+    "price": 97.8
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-03-01",
+    "price": 101.55
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-03-06",
+    "price": 99.62
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-03-11",
+    "price": 99.25
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-03-16",
+    "price": 100.63
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-03-21",
+    "price": 101.34
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-04-01",
+    "price": 98.91
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-04-06",
+    "price": 99.47
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-04-11",
+    "price": 99.87
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-04-16",
+    "price": 100.45
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-04-21",
+    "price": 99.65
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-05-01",
+    "price": 100.94
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-05-06",
+    "price": 97.57
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-05-11",
+    "price": 98.73
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-05-16",
+    "price": 101.01
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-05-21",
+    "price": 98.57
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-06-01",
+    "price": 100.57
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-06-06",
+    "price": 100.69
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-06-11",
+    "price": 99.27
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-06-16",
+    "price": 101.31
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-06-21",
+    "price": 101.94
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-07-01",
+    "price": 100.3
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-07-06",
+    "price": 100.89
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-07-11",
+    "price": 97.9
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-07-16",
+    "price": 97.47
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-07-21",
+    "price": 97.37
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-08-01",
+    "price": 101.72
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-08-06",
+    "price": 97.89
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-08-11",
+    "price": 98.88
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-08-16",
+    "price": 98.29
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-08-21",
+    "price": 97.59
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-09-01",
+    "price": 99.69
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-09-06",
+    "price": 99.1
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-09-11",
+    "price": 100.39
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-09-16",
+    "price": 97.24
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-09-21",
+    "price": 101.48
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-10-01",
+    "price": 99.47
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-10-06",
+    "price": 98.23
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-10-11",
+    "price": 100.07
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-10-16",
+    "price": 98.99
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-10-21",
+    "price": 98.48
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-11-01",
+    "price": 97.36
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-11-06",
+    "price": 98.6
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-11-11",
+    "price": 97.97
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-11-16",
+    "price": 100.56
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-11-21",
+    "price": 100.61
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-12-01",
+    "price": 101.49
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-12-06",
+    "price": 101.65
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-12-11",
+    "price": 99.78
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-12-16",
+    "price": 101.39
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2022-12-21",
+    "price": 101.68
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-01-01",
+    "price": 99.52
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-01-06",
+    "price": 102.25
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-01-11",
+    "price": 102.95
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-01-16",
+    "price": 99.9
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-01-21",
+    "price": 103.86
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-02-01",
+    "price": 100.52
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-02-06",
+    "price": 101.05
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-02-11",
+    "price": 102.33
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-02-16",
+    "price": 101.91
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-02-21",
+    "price": 101.81
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-03-01",
+    "price": 100.54
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-03-06",
+    "price": 101.06
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-03-11",
+    "price": 103.36
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-03-16",
+    "price": 103.21
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-03-21",
+    "price": 102.03
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-04-01",
+    "price": 102.89
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-04-06",
+    "price": 102.04
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-04-11",
+    "price": 100.28
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-04-16",
+    "price": 102.56
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-04-21",
+    "price": 99.56
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-05-01",
+    "price": 103.45
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-05-06",
+    "price": 101.75
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-05-11",
+    "price": 99.44
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-05-16",
+    "price": 100.42
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-05-21",
+    "price": 103.59
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-06-01",
+    "price": 100.44
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-06-06",
+    "price": 102.39
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-06-11",
+    "price": 99.64
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-06-16",
+    "price": 99.4
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-06-21",
+    "price": 103.94
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-07-01",
+    "price": 100.59
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-07-06",
+    "price": 100.38
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-07-11",
+    "price": 101.01
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-07-16",
+    "price": 99.27
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-07-21",
+    "price": 102.44
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-08-01",
+    "price": 102.05
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-08-06",
+    "price": 101.71
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-08-11",
+    "price": 101.43
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-08-16",
+    "price": 99.35
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-08-21",
+    "price": 99.84
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-09-01",
+    "price": 100.17
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-09-06",
+    "price": 102.09
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-09-11",
+    "price": 100.03
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-09-16",
+    "price": 102.16
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-09-21",
+    "price": 100.46
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-10-01",
+    "price": 99.6
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-10-06",
+    "price": 103.37
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-10-11",
+    "price": 101.4
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-10-16",
+    "price": 100.06
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-10-21",
+    "price": 100.67
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-11-01",
+    "price": 103.29
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-11-06",
+    "price": 102.44
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-11-11",
+    "price": 103.04
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-11-16",
+    "price": 102.46
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-11-21",
+    "price": 100.3
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-12-01",
+    "price": 99.97
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-12-06",
+    "price": 103.53
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-12-11",
+    "price": 101.52
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-12-16",
+    "price": 102.93
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "date": "2023-12-21",
+    "price": 100.95
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-01-01",
+    "price": 88.72
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-01-06",
+    "price": 87.67
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-01-11",
+    "price": 86.39
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-01-16",
+    "price": 89.13
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-01-21",
+    "price": 88.98
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-02-01",
+    "price": 87.93
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-02-06",
+    "price": 86.48
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-02-11",
+    "price": 90.53
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-02-16",
+    "price": 90.55
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-02-21",
+    "price": 89.48
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-03-01",
+    "price": 89.43
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-03-06",
+    "price": 88.31
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-03-11",
+    "price": 87.91
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-03-16",
+    "price": 86.85
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-03-21",
+    "price": 86.75
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-04-01",
+    "price": 88.06
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-04-06",
+    "price": 86.43
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-04-11",
+    "price": 86.41
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-04-16",
+    "price": 87.65
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-04-21",
+    "price": 90.19
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-05-01",
+    "price": 89.66
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-05-06",
+    "price": 90.16
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-05-11",
+    "price": 89.37
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-05-16",
+    "price": 88.05
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-05-21",
+    "price": 87.83
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-06-01",
+    "price": 89.59
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-06-06",
+    "price": 90.5
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-06-11",
+    "price": 90.6
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-06-16",
+    "price": 89.04
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-06-21",
+    "price": 86.84
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-07-01",
+    "price": 86.19
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-07-06",
+    "price": 86.58
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-07-11",
+    "price": 90.09
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-07-16",
+    "price": 88.44
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-07-21",
+    "price": 90.06
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-08-01",
+    "price": 88.53
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-08-06",
+    "price": 86.66
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-08-11",
+    "price": 86.35
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-08-16",
+    "price": 88.85
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-08-21",
+    "price": 88.69
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-09-01",
+    "price": 91
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-09-06",
+    "price": 86.43
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-09-11",
+    "price": 88.45
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-09-16",
+    "price": 87.37
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-09-21",
+    "price": 88.55
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-10-01",
+    "price": 88.74
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-10-06",
+    "price": 86.54
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-10-11",
+    "price": 87.71
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-10-16",
+    "price": 87.6
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-10-21",
+    "price": 89.82
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-11-01",
+    "price": 86.63
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-11-06",
+    "price": 86.44
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-11-11",
+    "price": 88.67
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-11-16",
+    "price": 87.31
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-11-21",
+    "price": 90.76
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-12-01",
+    "price": 90.52
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-12-06",
+    "price": 89.94
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-12-11",
+    "price": 86.39
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-12-16",
+    "price": 88.19
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2021-12-21",
+    "price": 88.98
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-01-01",
+    "price": 88.97
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-01-06",
+    "price": 90.88
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-01-11",
+    "price": 92.18
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-01-16",
+    "price": 91.97
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-01-21",
+    "price": 92.79
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-02-01",
+    "price": 92.86
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-02-06",
+    "price": 88.57
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-02-11",
+    "price": 90.41
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-02-16",
+    "price": 89.79
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-02-21",
+    "price": 91.38
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-03-01",
+    "price": 88.13
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-03-06",
+    "price": 90.07
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-03-11",
+    "price": 92
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-03-16",
+    "price": 92.14
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-03-21",
+    "price": 92.69
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-04-01",
+    "price": 92.28
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-04-06",
+    "price": 90.01
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-04-11",
+    "price": 88.26
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-04-16",
+    "price": 88.05
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-04-21",
+    "price": 92.6
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-05-01",
+    "price": 90.4
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-05-06",
+    "price": 91.47
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-05-11",
+    "price": 92.1
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-05-16",
+    "price": 92.68
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-05-21",
+    "price": 91.28
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-06-01",
+    "price": 91.09
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-06-06",
+    "price": 92.28
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-06-11",
+    "price": 92.92
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-06-16",
+    "price": 89.88
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-06-21",
+    "price": 89.96
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-07-01",
+    "price": 88.6
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-07-06",
+    "price": 90.4
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-07-11",
+    "price": 92.56
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-07-16",
+    "price": 89.36
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-07-21",
+    "price": 91.74
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-08-01",
+    "price": 92.95
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-08-06",
+    "price": 89.94
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-08-11",
+    "price": 90.7
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-08-16",
+    "price": 90.97
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-08-21",
+    "price": 89.26
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-09-01",
+    "price": 92.72
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-09-06",
+    "price": 90.57
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-09-11",
+    "price": 92.65
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-09-16",
+    "price": 90.47
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-09-21",
+    "price": 92.61
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-10-01",
+    "price": 91.33
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-10-06",
+    "price": 90.62
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-10-11",
+    "price": 90.61
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-10-16",
+    "price": 90.02
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-10-21",
+    "price": 92.87
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-11-01",
+    "price": 90.7
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-11-06",
+    "price": 92.04
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-11-11",
+    "price": 91.52
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-11-16",
+    "price": 89.7
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-11-21",
+    "price": 92.8
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-12-01",
+    "price": 90.67
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-12-06",
+    "price": 91.69
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-12-11",
+    "price": 90.37
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-12-16",
+    "price": 90.86
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2022-12-21",
+    "price": 91.76
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-01-01",
+    "price": 91.99
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-01-06",
+    "price": 94.5
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-01-11",
+    "price": 94.85
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-01-16",
+    "price": 91.65
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-01-21",
+    "price": 92.01
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-02-01",
+    "price": 90.48
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-02-06",
+    "price": 92.46
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-02-11",
+    "price": 90.14
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-02-16",
+    "price": 93.83
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-02-21",
+    "price": 92.67
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-03-01",
+    "price": 91.29
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-03-06",
+    "price": 90.59
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-03-11",
+    "price": 91.04
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-03-16",
+    "price": 94.06
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-03-21",
+    "price": 92.95
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-04-01",
+    "price": 93.92
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-04-06",
+    "price": 92.76
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-04-11",
+    "price": 90.98
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-04-16",
+    "price": 94.71
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-04-21",
+    "price": 91.97
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-05-01",
+    "price": 94.03
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-05-06",
+    "price": 93.93
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-05-11",
+    "price": 90.29
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-05-16",
+    "price": 93.48
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-05-21",
+    "price": 94.37
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-06-01",
+    "price": 90.38
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-06-06",
+    "price": 91.28
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-06-11",
+    "price": 94.76
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-06-16",
+    "price": 92.42
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-06-21",
+    "price": 94.43
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-07-01",
+    "price": 94.28
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-07-06",
+    "price": 91.12
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-07-11",
+    "price": 91.61
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-07-16",
+    "price": 93.99
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-07-21",
+    "price": 93.68
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-08-01",
+    "price": 93.26
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-08-06",
+    "price": 91.37
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-08-11",
+    "price": 91
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-08-16",
+    "price": 92.56
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-08-21",
+    "price": 92.57
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-09-01",
+    "price": 90.95
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-09-06",
+    "price": 90.48
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-09-11",
+    "price": 92.36
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-09-16",
+    "price": 94.57
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-09-21",
+    "price": 94.7
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-10-01",
+    "price": 91.31
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-10-06",
+    "price": 91.05
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-10-11",
+    "price": 92.58
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-10-16",
+    "price": 91.45
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-10-21",
+    "price": 93.09
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-11-01",
+    "price": 90.68
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-11-06",
+    "price": 93.23
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-11-11",
+    "price": 91.19
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-11-16",
+    "price": 92.74
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-11-21",
+    "price": 93.76
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-12-01",
+    "price": 92.34
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-12-06",
+    "price": 90.96
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-12-11",
+    "price": 90.65
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-12-16",
+    "price": 90.78
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "date": "2023-12-21",
+    "price": 93.99
+  }
+]
