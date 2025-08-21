@@ -21,7 +21,7 @@ Users can select a **city, fuel type, and year (including 2023–2025)** from dr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rajatchauhan9690/Fuel.git
+   git clone https://github.com/Rajatchauhan9690/Fuel-Task.git
    cd Fuel
    ```
 2. **Install Dependencies**
