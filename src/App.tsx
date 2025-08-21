@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Chart from "./components/Chart";
-import fuelData from "./data/Prices.json"; // <-- renamed import to fuelData for clarity
+import data from "./data/Prices.json";
 
 type FuelRecord = {
   city: string;
@@ -40,8 +40,6 @@ function getMonthlyAverages(
 }
 
 const App: React.FC = () => {
-  const data: FuelRecord[] = fuelData as FuelRecord[]; // type assertion for JSON
-
   const cities = Array.from(new Set(data.map((d) => d.city)));
   const fuels = Array.from(new Set(data.map((d) => d.fuel)));
   const datasetYears = Array.from(
@@ -51,10 +49,9 @@ const App: React.FC = () => {
   // add 2023, 2024, 2025 also
   const years = Array.from(new Set([...datasetYears, "2023", "2024", "2025"]));
 
-  // set safe defaults (if dataset is empty, fall back to first from list or "")
-  const [city, setCity] = useState(cities[0] || "");
-  const [fuel, setFuel] = useState(fuels[0] || "");
-  const [year, setYear] = useState(years[0] || "");
+  const [city, setCity] = useState(cities[0]);
+  const [fuel, setFuel] = useState(fuels[0]);
+  const [year, setYear] = useState(years[0]);
 
   const monthlyData = getMonthlyAverages(data, city, fuel, year);
 
@@ -66,7 +63,7 @@ const App: React.FC = () => {
       <div
         style={{
           display: "flex",
-          justifyContent: "center", // changed back to center
+          justifyContent: "center",
           gap: "1rem",
           marginBottom: "20px",
         }}
